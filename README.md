@@ -5,7 +5,7 @@ Domain: Cyber security and ethical hacking
 Duration: June to July 2024
 Mentor: SRAVANI GOUNI
 
-** Overview of the project
+ OVERVIEW OF THE PROJECT
 
 Project: Cyber security and ethical hacking
 
